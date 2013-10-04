@@ -17,5 +17,8 @@ bin-release/
 *.jpg
 *.jpeg
 
+# Ignore C4D
+*.c4d
+
 # Ignore DS_Store
 .DS_Store
